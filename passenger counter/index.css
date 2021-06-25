@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url('7.jpg');
+    flex: auto;
+    text-align: center;
+    color: white;
+}
+
+button {
+    color: burlywood;
+    background-color: darkgreen;
+}
